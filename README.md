@@ -1,4 +1,4 @@
-# F-rmula-de-peso-ideal
+# Formula-de-peso-ideal
 Fórmula para calcular o peso ideal para Homens e Mulheres
 
 genero=input("M para Masculino e F para feminino?").upper()
